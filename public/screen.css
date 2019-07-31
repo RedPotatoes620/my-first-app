@@ -9,4 +9,50 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  background-color: teal;
+  background-image: url(90s-backgroundart.jpg); 
+    }
+
+body h1 {
+  text-align: center;
+}
+
+body h2 {
+  text-align:center;
+}
+
+ul {
+  color: rgb(211, 18, 179)
+}
+
+
+#Ibanez-guitar {
+  width: 10em
+}
+#Gibson-guitar {
+  width: 10em
+}
+#Schecter-guitar {
+  width: 10em
+}
+
+#Fender-guitar {
+  width: 10em
+}
+
+
+.navigation{
+  text-align: center;
+  background-color: grey;
+  opacity: 0.7;
+
+}
+
+.navigation ul {
+  color: red
+}
+
+.about{
+  text-align:left
+
 }
